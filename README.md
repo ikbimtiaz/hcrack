@@ -7,7 +7,7 @@ This Is Facebook Cloning And Useful Tools Purely Codded By Me.
 2-pkg install python && pkg install python2
 3-pkg install git
 4-git clone https://github.com/Hamzahash/hcrack
-5-cd hop
+5-cd hcrack
 6-python2 hcrack.py
 7-Username:hamza
 8-Password:1626
